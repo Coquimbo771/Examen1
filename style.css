@@ -1,0 +1,11 @@
+.body {
+    background-color: black;
+}
+.gameboard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color: blue;
+    margin: 20px;
+    height: auto;
+}
